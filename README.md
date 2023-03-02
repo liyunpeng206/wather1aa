@@ -1,7 +1,3 @@
-# daily_reminder
-
-模板内容如下：
-
 {{date.DATA}} 
 
 地区：{{region.DATA}} 
